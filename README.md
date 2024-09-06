@@ -2,15 +2,6 @@
 
 A Django-based social media platform that allows users to connect, share posts, and engage with the community. This application provides core social media functionalities, including user authentication, posts, comments, likes, and more.
 
-## Table of Contents
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 - **User Authentication:** Sign up, log in, log out, and profile management.
